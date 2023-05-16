@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed S. Sharawi</h1>
+A tech enthusiast with a demonstrated history of learning in different software industry fields. From hacking apps to securing them against hackers; I got to work in different fields such as backend development, mobile app development, system management, and script writing. Excited to keep earning experience from working alongside elder developers and keeping up with new technologies.
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sha3rawi33&label=Profile%20views&color=0e75b6&style=flat" alt="sha3rawi33" height="0px" width="1px" /> </p>
 
 - 🤵 I'm currently Managing [Sabora TV](https://saboratv.com)
