@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed S. Sharawi</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha3rawi33&label=Profile%20views&color=0e75b6&style=flat" alt="sha3rawi33" /> </p> -->
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=sha3rawi33&label=Profile%20views&color=0e75b6&style=flat" alt="sha3rawi33" height="0px" width="1px" /> </p>
 
 - 🤵 I'm currently Managing [Sabora TV](https://saboratv.com)
 
