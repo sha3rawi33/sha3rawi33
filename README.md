@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed S. Sharawi</h1>
 A tech enthusiast with a demonstrated history of learning in different software industry fields. From hacking apps to securing them against hackers; I got to work in different fields such as backend development, mobile app development, system management, and script writing. Excited to keep earning experience from working alongside elder developers and keeping up with new technologies.
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=sha3rawi33&label=Profile%20views&color=0e75b6&style=flat" alt="sha3rawi33" height="0px" width="1px" /> </p>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=sha3rawi33&label=Profile%20views&color=0e75b6&style=flat" alt="sha3rawi33"  /> 
 
 - 🤵 I'm currently Managing [Sabora TV](https://saboratv.com)
 
@@ -11,6 +12,7 @@ A tech enthusiast with a demonstrated history of learning in different software 
 - 📫 How to reach me **sharawi@plebits.com**
 
 - ⚡ Fun fact **leechers gonna leech**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
